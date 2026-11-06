@@ -30,7 +30,9 @@ A sleek, real-time synced, BepInEx-powered player reporting menu for Gorilla Tag
 ## Links:
 
 **Source code**: https://github.com/Killadabest/ReportGUI
+
 **Download Instantly**: https://github.com/Killadabest/ReportGUI/releases/download/1.0.0/ReportGUI.dll
+
 **Release**: https://github.com/Killadabest/ReportGUI/releases/tag/1.0.0
 
 ## Credits
